@@ -82,14 +82,14 @@ Attention : If XAMPP is installed in a base directory with spaces (e.g. c:\progr
 
 1) MySQL:
 
-   User: root
-   Password:
+   - User: root
+   - Password:
    (means no password!)
 
 4) WEBDAV:
 
-   User: Kunal123
-   Password: kunu
+   - User: Kunal123
+   - Password: kunu
    
 ---------------------------------------------------------------
 
